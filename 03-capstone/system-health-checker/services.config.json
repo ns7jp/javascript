@@ -1,0 +1,22 @@
+[
+  {
+    "name": "readme-file",
+    "type": "file",
+    "target": "README.md"
+  },
+  {
+    "name": "config-file-itself",
+    "type": "file",
+    "target": "services.config.json"
+  },
+  {
+    "name": "missing-config-file",
+    "type": "file",
+    "target": "does-not-exist.txt"
+  },
+  {
+    "name": "phantom-log-file",
+    "type": "file",
+    "target": "logs/this-log-was-never-created.log"
+  }
+]

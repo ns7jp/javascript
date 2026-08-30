@@ -1,0 +1,13 @@
+{
+  "name": "javascript-fundamentals-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "未経験からサーバー構築エンジニアを目指す学習者向けのJavaScript基礎演習ポートフォリオ",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
